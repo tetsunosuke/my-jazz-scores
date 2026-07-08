@@ -10,10 +10,9 @@ K:Eb
 %%MIDI bassprog 32 % Acoustic Bass
 %
 % -- A Section --
-"Fm7" z4 | "Bb7" z4 |
-"Eb7" G2 G1>F | "Cm7" E F G A | "Fm7" B> B B B | "Bbmaj7" B3 z1 |
+"Fm7" z4 | "Bb7" z4 | "Ebmaj7" G2 G1>F | "C7(b9)" E F G A | "Fm7" B> B B B | "Bb7" B3 z1 |
 w: わ- が ひ- の- も- と- は- し- ま- ぐ- に- よ-
-"Eb7" G2 G1>G | "Cm7" G A G F | "Fm7" E2 F2 | "Bbmaj7" G3 z |
+"Ebmaj7" G2 G1>G | "C7(b9)" G A G F | "Fm7" E2 F2 | "Bb7" G3 z |
 w: あ- さ- ひ- か- が- よ- う- う- mi- に-
 "Fm7" F> G F E | "Bb7" D C B, C | "Gm7" B, E F G | "Eb7" G> F F2 |
 w: つ- ら- な- り- そ- ば- だ- つ- し- ま- じ- ま- な- れ- ば-
